@@ -4,103 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a563f96b-6683-4a8a-a7f2-94b8929b22ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hillel_0906.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm12/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm12/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm13/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm2/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm2/Test3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm3/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm3/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm4/Extra2Rush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm4/ExtraPractise.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm4/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm4/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm4/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm4/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm5/ChessBoard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm5/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm5/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm5/TreeAllVariants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm6/ReverseLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm6/ReverseLoopPr2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm6/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm6/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm7/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm8/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm8/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm9/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/javarushPractise/lev6lec2/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/LogicalOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/TernaryOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/constructors/implicit/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson10/constructors/implicit/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/superwithconstructor/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/superwithconstructor/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/superwithconstructor/Launch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/thisexample/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/thisexample/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson11/thisexample/TestThis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/AboutBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutfinal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutfinal/FinalExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutstatic/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson12/aboutstatic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson13/ContinueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/exceptions/SimpleExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/exceptions/customexception/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/exceptions/customexception/MyExceptionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/list/ListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson15/list/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson2/Decreement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson2/Increment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson2/MyFirstClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson2/PostPrefix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/ConditionsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/Lesson3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson3/ScannerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson4/arrays/ArraysExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson4/loops/LoopsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson4/switchexample/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/methods/MethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/methods/MethodsWithParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/methods/methodStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson5/twodimarray/DimArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/ReverseExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/RoundExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/SomeStringMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson6/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/SplitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/randomizer/RandomExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/stringbuff/StringBuffExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/stringpool/StringPoolExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/switchinjava/SwitchJava12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/switchinjava/SwitchJava13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson7/switchinjava/SwitchJava7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/Oop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Lion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/inheritance/Pets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson8/oop/polyforphism/PolymorphismExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/BubbleSort2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/encapsulation/car/Bmw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson9/oop/encapsulation/specific/Specification.java" afterDir="false" />
+    <list default="true" id="a563f96b-6683-4a8a-a7f2-94b8929b22ac" name="Changes" comment="My first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,7 +132,19 @@
       <option name="presentableId" value="Default" />
       <updated>1686674627028</updated>
     </task>
+    <task id="LOCAL-00001" summary="My first commit">
+      <created>1691415231033</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691415231033</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="My first commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hillel_0906$ExtraPractise.ic" NAME="ExtraPractise Coverage Results" MODIFIED="1687529714806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
