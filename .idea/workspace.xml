@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a563f96b-6683-4a8a-a7f2-94b8929b22ac" name="Changes" comment="My first commit">
+    <list default="true" id="a563f96b-6683-4a8a-a7f2-94b8929b22ac" name="Changes" comment="Modified workspace xml after first commit">
+      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm16/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm16/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm16/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/hillel/homework/hm16/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson16/map/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson16/set/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson16/set/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ua/hillel/lessons/lesson17/iterator/IteratorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +28,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="b4a6de80-d286-41fe-b410-36528d7789a8" />
+        <option name="url" value="https://github.com/dmlevc/hillel_0906.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/ua/hillel/homework/hm6/ReverseLoopPr2.java" root0="FORCE_HIGHLIGHTING" />
@@ -36,24 +62,24 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ListExample">
-    <configuration name="ContinueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson13.ContinueExample" />
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.homework.hm16.Main" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson13.*" />
+          <option name="PATTERN" value="ua.hillel.homework.hm16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,8 +87,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.homework.hm12.HomeWork" />
+    <configuration name="MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson16.map.MapExample" />
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.lessons.lesson16.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson16.set.SetExample" />
+      <module name="hillel_0906" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ua.hillel.lessons.lesson16.set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.homework.hm12.Task1" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
@@ -74,38 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson15.list.ListExample" />
+    <configuration name="TreeSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson16.set.TreeSetExample" />
       <module name="hillel_0906" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson15.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SimpleExceptionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.lessons.lesson15.exceptions.SimpleExceptionExample" />
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hillel.lessons.lesson15.exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ua.hillel.homework.hm13.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ua.hillel.homework.hm13.Task1" />
-      <module name="hillel_0906" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ua.hillel.homework.hm13.*" />
+          <option name="PATTERN" value="ua.hillel.lessons.lesson16.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ListExample" />
-        <item itemvalue="Application.SimpleExceptionExample" />
-        <item itemvalue="Application.ua.hillel.homework.hm13.Task1" />
-        <item itemvalue="Application.ContinueExample" />
-        <item itemvalue="Application.HomeWork" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MapExample" />
+        <item itemvalue="Application.TreeSetExample" />
+        <item itemvalue="Application.SetExample" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -139,12 +165,31 @@
       <option name="project" value="LOCAL" />
       <updated>1691415231033</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Modified workspace xml after first commit">
+      <created>1691417528016</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691417528016</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="My first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="My first commit" />
+    <MESSAGE value="Modified workspace xml after first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified workspace xml after first commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/hillel_0906$ExtraPractise.ic" NAME="ExtraPractise Coverage Results" MODIFIED="1687529714806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
